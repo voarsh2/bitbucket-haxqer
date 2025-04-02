@@ -2,8 +2,8 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
-+ LTR Version: v8.9.19 - MYySQL and PostgreSQL
-+ LTR Version: v8.19.9 - PostgreSQL and MYySQL (MySQL is not supported officially by Atlassian)
++ LTR Version: v8.9.19 - MySQL and PostgreSQL
++ LTR Version: v8.19.9 - PostgreSQL and MySQL (MySQL is not supported officially by Atlassian)
 
 
 Thanks to: [voarsh2](https://github.com/voarsh2) for [Bitbucket test data](https://github.com/haxqer/jira/issues/30) 
